@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url(img/faded-office.png);
+    background-size: cover;
+    height: 100vh;
+    color: #020202;
+    padding: 10px 0 0 50px;
+}
+
+#title {
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+#about-us {
+    font-size: 23px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+#underline {
+    border-bottom: 5px solid #0ea5e9;
+}
+
+#lets-chat-btn {
+    font-family: "Open Sans", sans-serif;
+    padding: 18px 33px;
+    background-color: #0ea5e9;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    margin-top: 0;
+}
+
