@@ -4,7 +4,8 @@ body {
     background-size: cover;
     height: 100vh;
     color: #020202;
-    padding: 10px 0 0 50px;
+    padding: 10px 0 0 60px;
+    margin: 0;
 }
 
 #title {
@@ -34,8 +35,8 @@ body {
     margin-top: 0;
 }
 
-@media (orientation: landscape) {
+@media (orientation: landscape) and (max-width: 1024px) {
     body {
-        padding-bottom: 40px;
+        padding-bottom: 10px;
     }
   }
